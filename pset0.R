@@ -1,1 +1,5 @@
 print("hello world")
+print("你好世界")
+print("Привет, мир")
+print("हैलो वर्ल्ड")
+print("مرحبا بالعالم")
